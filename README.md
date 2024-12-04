@@ -47,5 +47,5 @@ This project is open to feedback for further improvements. Feel free to reach ou
 
 Contact Information:
 Email: madesh21h031@gmail.com
-GitHub: YourGitHubProfile
+GitHub: (https://github.com/Madesh06)
 
